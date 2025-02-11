@@ -8,7 +8,7 @@ def mot_valide(mots):
 
     return mot.upper()
 
-def Le_pendu();
+def Le_pendu():
     mot = mot_valide(mots)
     lettres_mot = set(mot)
     lettres_essayées = set()
